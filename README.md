@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlYyOgMKra7RosBNYjUipg_TN_o1d6cWhXw&usqp=CAU)]()
+
 
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
